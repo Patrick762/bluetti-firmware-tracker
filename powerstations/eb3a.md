@@ -1,5 +1,8 @@
 # EB3A
 
+Protocol version: 1
+Bluetooth encryption: No
+
 ## 20.07.2026
 
 | Component | Version  |
